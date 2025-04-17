@@ -1,16 +1,7 @@
 Parametric Light Cover  README
 This repository contains the Grasshopper definition and STL files for two parametric light cover models designed for 3D printing. The models are generated in Rhino using Grasshopper, with adjustable parameters to explore variations in curvature, segmentation, and texture.
 
-Contents
-LightCover_Sine.gh Grasshopper file using a sine function
 
-LightCover_Cosine.ghGrasshopper file using a cosine function
-
-Model1_Sine_30Segments.stl STL of first light cover
-
-Model2_Cosine_50Segments.stl  STL of second light cover
-
-README.md This guide
 
 How to Modify Parameters
 Open the .gh file in Grasshopper and use the sliders provided in the definition to control the model's geometry.
